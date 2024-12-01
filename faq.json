@@ -1,41 +1,41 @@
 {
   "ar": {
     "faq1": {
-      "question": "⏳ ما هو وقت التسليم؟ 🔽",
+      "question": "⏳ ما هو وقت التسليم؟ ➕",
       "answer": "تُسلم المنتجات على موقع بازار تك بعد الدفع يدويًا عبر واتساب أو البريد الإلكتروني.<br><br>يعتمد تسليم الطلبات على نوع الاشتراك وعادة لا يتجاوز 8 ساعات خلال ساعات العمل."
     },
     "faq2": {
-      "question": "⌚ ما هي ساعات العمل؟ 🔽",
+      "question": "⌚ ما هي ساعات العمل؟ ➕",
       "answer": "ساعات العمل هي من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات في المعالجة من منتصف الليل."
     }
   },
   "es": {
     "faq1": {
-      "question": "⏳ ¿Cuál es el tiempo de entrega? 🔽",
+      "question": "⏳ ¿Cuál es el tiempo de entrega? ➕",
       "answer": "Los productos en el sitio web de Bazaar Tech se entregan manualmente a través de WhatsApp o correo electrónico después del pago.<br><br>La entrega de pedidos depende del tipo de suscripción y generalmente no excede las 8 horas durante el horario laboral."
     },
     "faq2": {
-      "question": "⌚ ¿Cuáles son las horas de trabajo? 🔽",
+      "question": "⌚ ¿Cuáles son las horas de trabajo? ➕",
       "answer": "El horario de atención es de 9 AM a 9 PM, con algunos pedidos comenzando a procesarse desde las 12 AM."
     }
   },
   "en": {
     "faq1": {
-      "question": "⏳ What is the delivery time? 🔽",
+      "question": "⏳ What is the delivery time? ➕",
       "answer": "Products on the Bazaar Tech website are delivered manually via WhatsApp or Email after payment.<br><br>Delivery of orders depends on the type of subscription and usually does not exceed 8 hours during working hours."
     },
     "faq2": {
-      "question": "⌚ What are the working hours? 🔽",
+      "question": "⌚ What are the working hours? ➕",
       "answer": "Working hours are from 9 AM to 9 PM, with some orders starting to be processed from 12 AM."
     }
   },
   "fr": {
     "faq1": {
-      "question": "⏳ Quel est le temps de livraison ? 🔽",
+      "question": "⏳ Quel est le temps de livraison ? ➕",
       "answer": "Les produits sur le site Web de Bazaar Tech sont livrés manuellement par WhatsApp ou par e-mail après le paiement.<br><br>La livraison des commandes dépend du type d'abonnement et ne dépasse généralement pas 8 heures pendant les heures de travail."
     },
     "faq2": {
-      "question": "⌚ Quelles sont les heures de travail ? 🔽",
+      "question": "⌚ Quelles sont les heures de travail ? ➕",
       "answer": "Les heures de travail sont de 9h à 21h, certains commandes commencent à être traitées à partir de 00h."
     }
   }
